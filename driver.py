@@ -59,7 +59,7 @@ def cfg():
     epoch = 50 #paul did 50
     shuffle = True
     num_workers = 2
-    best_model_path =  "/scratch/echowdh2/saved_models_from_projects/mental_face_transfer/"+str(node_index) +"_best_model.chkpt"
+    best_model_path =  "/scratch/mhasan8/saved_models_from_projects/mental_face_transfer/"+str(node_index) +"_best_model.chkpt"
     experiment_config_index=0
 
 

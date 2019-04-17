@@ -59,7 +59,7 @@ def run_configs(dataset_location):
     
     
     
-#run it like ./running_different_configs.py --dataset=deception
+#run it like ./running_different_configs.py --dataset=mental_face_transfer
 
 if __name__ == '__main__':
     args = parser.parse_args()
