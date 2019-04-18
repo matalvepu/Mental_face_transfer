@@ -13,4 +13,4 @@
 
 module load anaconda3/5.3.0b
 module load git
-python running_different_configs.py --dataset=mental_face
+python running_different_configs.py --dataset=deception

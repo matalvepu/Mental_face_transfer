@@ -1,0 +1,4 @@
+  File "/var/spool/slurm/job7988889/slurm_script", line 23
+    module load anaconda3/5.3.0b
+              ^
+SyntaxError: invalid syntax
